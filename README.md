@@ -68,3 +68,17 @@ Researchers, students, and engineers are welcome to use, modify, and contribute 
 ## License
 
 MIT License
+
+## Pilot Results
+
+First validation study:
+
+| Case | Max Scd21 |
+|--------|--------|
+| A | -49.6 dB |
+| E | -6.6 dB |
+| G | -35.0 dB |
+
+The pilot study demonstrated that asymmetric open-stub structures produce significantly larger differential-to-common mode conversion than symmetric structures.
+
+This result established the foundation for future investigations involving vertical vias, anti-pads, microbumps, and UCIe channels.
